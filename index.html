@@ -7,12 +7,8 @@ title: Cloud Compute
 	<p>Stay hungry Stay foolish <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
 
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
 end
 {% endhighlight %}
