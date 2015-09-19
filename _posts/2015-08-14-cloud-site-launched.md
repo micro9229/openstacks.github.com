@@ -129,3 +129,5 @@ ___
 
 Modestly tested on Jekyll v1.4.3 and may not cover all edge cases. Not been tested on some older
 browsers that didn't bother to properly follow CSS standards at the time.
+
+This blog is cloned from https://demisx.github.io/jekyll
