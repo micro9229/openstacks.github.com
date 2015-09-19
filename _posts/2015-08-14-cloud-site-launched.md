@@ -110,14 +110,14 @@ post markup:
 
 ```
 {% raw %}
-{% gist 21492c2939f191ded3f1 %}
+{% gist openstacks/21492c2939f191ded3f1 %}
 {% endraw %}
 ```
 
 will produce this GitHub-like formatted snippet loaded straight from GitHub and formatted like a GitHub
 snippet:
 
-{% gist 21492c2939f191ded3f1  %}
+{% gist openstacks/21492c2939f191ded3f1  %}
 
 I have mixed feelings about this particular approach. One one hand, it does make embedding properly
 highlighted snippets in my posts a walk in a park. On the other hand, it introduces dependency on GitHub.
