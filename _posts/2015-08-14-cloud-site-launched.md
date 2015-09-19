@@ -110,7 +110,7 @@ post markup:
 
 ```
 {% raw %}
-{% gist 8387126 %}
+{% gist 21492c2939f191ded3f1 %}
 {% endraw %}
 ```
 
