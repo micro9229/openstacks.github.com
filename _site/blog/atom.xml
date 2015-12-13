@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Yuxing's Blog</title>
+	<link href="http://openstacks.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://openstacks.github.io/blog"/>
+	<updated>2015-12-13T15:02:20+00:00</updated>
+	<id>http://openstacks.github.io/blog</id>
+	<author>
+		<name>Yuxing wang</name>
+		<email>840814120@qq.com</email>
+	</author>
+
+	
+		<entry>
+			<title>GitHub & Git Foundations</title>
+			<link href="http://openstacks.github.io/blog/2014/01/08/git-foundations"/>
+			<updated>2014-01-08T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2014/01/08/git-foundations</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>GitHub & Git Foundations</title>
+			<link href="http://openstacks.github.io/blog/2013/12/11/git-foundations"/>
+			<updated>2013-12-11T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2013/12/11/git-foundations</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>GitHub Office Hour</title>
+			<link href="http://openstacks.github.io/blog/2013/05/19/office-hour"/>
+			<updated>2013-05-19T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2013/05/19/office-hour</id>
+			<content type="html">&lt;p&gt;Immediately following the free class, our trainers are available to answer all of your getting-started, technical, workflow, or best practice questions about GitHub and Git.&lt;/p&gt;
+
+</content>
+		</entry>
+	
+		<entry>
+			<title>GitHub & Git Free Class</title>
+			<link href="http://openstacks.github.io/blog/2013/04/30/github-freeclass"/>
+			<updated>2013-04-30T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2013/04/30/github-freeclass</id>
+			<content type="html">&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; In this class, we will go over Git &amp;amp; GitHub basics: Day-to-day command line use and a showcase of GitHub.com’s Web Flow.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Advanced GitHub & Git</title>
+			<link href="http://openstacks.github.io/blog/2013/04/22/advance-git"/>
+			<updated>2013-04-22T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2013/04/22/advance-git</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Advanced Git Tricks</title>
+			<link href="http://openstacks.github.io/blog/2012/10/03/advanced-git-at-javazone"/>
+			<updated>2012-10-03T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/10/03/advanced-git-at-javazone</id>
+			<content type="html">&lt;p&gt;Our own Tim Berglund brings some slightly humorous, very useful advanced Git instruction at a conference in Norway in September 2012. Tim performs a commit without using the &lt;code&gt;add&lt;/code&gt; or &lt;code&gt;commit&lt;/code&gt; operations, demonstrates various forms of rebasing, shows powerful log options, and more.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>O'Reilly Media • Mastering Advanced Git</title>
+			<link href="http://openstacks.github.io/blog/2012/10/02/mastering-advanced-git"/>
+			<updated>2012-10-02T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/10/02/mastering-advanced-git</id>
+			<content type="html">&lt;p&gt;Go beyond the basics and take Git to a higher level of productivity. If you’re familiar with this popular distributed revision control system (DVCS), Mastering Advanced Git will help you leverage Git’s powerful yet underused advanced features.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>O'Reilly Media • Mastering Git</title>
+			<link href="http://openstacks.github.io/blog/2012/10/01/mastering-git"/>
+			<updated>2012-10-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/10/01/mastering-git</id>
+			<content type="html">&lt;p&gt;Matthew McCullough and Tim Berglund demonstrate how Git not only incorporates the best features of existing source control systems, but also includes unique distributed capabilities that make version control commands available without connectivity, allowing you to choose when to interact with a network.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git Notes and GitHub</title>
+			<link href="http://openstacks.github.io/blog/2012/09/03/git-notes-and-github"/>
+			<updated>2012-09-03T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/03/git-notes-and-github</id>
+			<content type="html">&lt;p&gt;Git Notes are a relatively unexplored feature of Git. This GitHub podcast by Matthew McCullough shows how the Git notes feature works from an &lt;code&gt;add&lt;/code&gt;, &lt;code&gt;push&lt;/code&gt;, and &lt;code&gt;fetch&lt;/code&gt; perspective. The display of notes is also examined from the &lt;code&gt;notes show&lt;/code&gt;, &lt;code&gt;log&lt;/code&gt; and GitHub Web UI vectors. You’ll be an expert at leveraging Git notes after watching this episode.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>github/teach.github.com</title>
+			<link href="http://openstacks.github.io/blog/2012/09/03/teach.github.com"/>
+			<updated>2012-09-03T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/03/teach.github.com</id>
+			<content type="html">&lt;p&gt;The open source teaching materials site for GitHub and Git technologies.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Pro Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/03/pro-git"/>
+			<updated>2012-09-03T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/03/pro-git</id>
+			<content type="html">&lt;p&gt;The entire Pro Git book, written by Scott Chacon and published by Apress, is available online for free. All content is licensed under the &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Creative Commons Attribution Non Commercial Share Alike 3.0 license&lt;/a&gt;. Print versions of the book are also available on &lt;a href=&quot;http://www.amazon.com/gp/product/1430218339?ie=UTF8&amp;amp;tag=prgi-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=1430218339&quot;&gt;Amazon.com&lt;/a&gt;.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>GitHub Teams and Organizations for Hackathons</title>
+			<link href="http://openstacks.github.io/blog/2012/09/02/orgs-and-teams"/>
+			<updated>2012-09-02T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/02/orgs-and-teams</id>
+			<content type="html">&lt;p&gt;Are you running an open source team hacking event? Use free GitHub Organizations and Teams to easily manage all of the projects and contributions for the event with this getting-started step-by-step guide.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>defunkt/hub</title>
+			<link href="http://openstacks.github.io/blog/2012/09/02/hub"/>
+			<updated>2012-09-02T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/02/hub</id>
+			<content type="html">&lt;p&gt;Whether you are beginner or an experienced contributor to open-source, hub is a command-line wrapper that teaches Git about GitHub. Hub makes it easier to fetch repositories, navigate project pages, fork repos and even submit pull requests, all from the command-line.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Getting Good with Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/02/getting-good-with-git"/>
+			<updated>2012-09-02T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/02/getting-good-with-git</id>
+			<content type="html">&lt;p&gt;In this book, Andrew Burgess will take you from knowing nothing about source code management to being able to use Git proficiently.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>O'Reilly Webcast—The Fringes of Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/the-fringes-of-git"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/the-fringes-of-git</id>
+			<content type="html">&lt;p&gt;Matthew McCullough and Tim Berglund introduce you to the very edges of Git’s capabilities.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Validated Build Promotions with Git, GitHub, and Jenkins</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/promoted-git-builds"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/promoted-git-builds</id>
+			<content type="html">&lt;p&gt;Promoting builds from one Git repository to another for the purposes of vetting code with unit tests and only passing “verified” code to the second, more quality repo.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>What’s the big deal about the small Git version control system?</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/php-big-deal"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/php-big-deal</id>
+			<content type="html">&lt;p&gt;Matthew McCullough gives a hands-on demonstration of Git, showing why Git matters and why we are suddenly hearing so much about a tool invented several years ago. The free open source social coding features of GitHub are also shown along with how they organically motivated PHP to move its sources there.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>robbyrussell/oh-my-zsh</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/oh-my-zsh"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/oh-my-zsh</id>
+			<content type="html">&lt;p&gt;A community-driven framework for managing your zsh configuration. Includes optional plugins for a number of things, including Git, and GitHub related projects like &lt;a href=&quot;http://defunkt.io/hub&quot;&gt;Hub&lt;/a&gt;.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Wrangling Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/wrangling-git"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/wrangling-git</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Teams and Orgs on GitHub.com</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/teams-and-orgs"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/teams-and-orgs</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Migrating from Subversion to Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/migrating-svn-to-git"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/migrating-svn-to-git</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Introduction to Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/intro-to-git-schacon"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/intro-to-git-schacon</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Intro to GitHub and Git</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/intro-to-git-github"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/intro-to-git-github</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git Going at the Transylvania JUG</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/git-going"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/git-going</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>A Tale of Three Trees</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/a-tale-of-three-trees"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/a-tale-of-three-trees</id>
+			<content type="html">
+</content>
+		</entry>
+	
+		<entry>
+			<title>Try Git, by Code School</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/try-git"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/try-git</id>
+			<content type="html">&lt;p&gt;An interactive web-based tutorial that will introduce you to the basic concepts of Git version control.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Curated Git Education Links</title>
+			<link href="http://openstacks.github.io/blog/2012/09/01/curated-links"/>
+			<updated>2012-09-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/09/01/curated-links</id>
+			<content type="html">&lt;p&gt;Matthew McCullough’s Recommended Git Links&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git - The Simple Guide by Roger Dudler</title>
+			<link href="http://openstacks.github.io/blog/2012/08/01/the-git-guide"/>
+			<updated>2012-08-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/08/01/the-git-guide</id>
+			<content type="html">&lt;p&gt;A one-page scrollable guide to the basics of Git.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Version Control with Git, 2nd Edition</title>
+			<link href="http://openstacks.github.io/blog/2012/08/01/version-control-with-git"/>
+			<updated>2012-08-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/08/01/version-control-with-git</id>
+			<content type="html">&lt;p&gt;Get up to speed on Git for tracking, branching, merging, and managing code revisions. Through a series of step-by-step tutorials, this practical guide takes you quickly from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating the many functions of this open source version control system.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Matthew Mccullough</title>
+			<link href="http://openstacks.github.io/blog/2012/03/03/matthew-mccullough"/>
+			<updated>2012-03-03T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/03/03/matthew-mccullough</id>
+			<content type="html">&lt;p&gt;Matthew McCullough has many years of experience teaching GitHub and Git courses. He is a co-author of O’Reilly’s Git Master Class, with Tim Berglund. He authored DZone’s Git RefCard, as well as the Git modules in “Jenkins: The Definitive Guide”.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Tim Berglund</title>
+			<link href="http://openstacks.github.io/blog/2012/02/02/tim-berglund"/>
+			<updated>2012-02-02T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/02/02/tim-berglund</id>
+			<content type="html">&lt;p&gt;Tim Berglund, a well-known conference speaker, leverages his broad experience to make GitHub’s training exceptional. He co-authored O’Reilly’s Git Master Class with Matthew McCullough, and continues to deliver the high quality that GitHub Training’s customers expect.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Brent Beer</title>
+			<link href="http://openstacks.github.io/blog/2012/01/01/brent-beer"/>
+			<updated>2012-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/01/01/brent-beer</id>
+			<content type="html">&lt;p&gt;Brent Beer is an experienced Rubyist with a passion for teaching Git to people of both technical and non-technical backrounds.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git & GitHub Foundations</title>
+			<link href="http://openstacks.github.io/blog/2012/01/01/stub"/>
+			<updated>2012-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/01/01/stub</id>
+			<content type="html">&lt;p&gt;(Description Pending)&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git & GitHub Foundations</title>
+			<link href="http://openstacks.github.io/blog/2012/01/01/stub"/>
+			<updated>2012-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/01/01/stub</id>
+			<content type="html">&lt;p&gt;(Description Pending)&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Advanced Git & GitHub</title>
+			<link href="http://openstacks.github.io/blog/2012/01/01/stub"/>
+			<updated>2012-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2012/01/01/stub</id>
+			<content type="html">&lt;p&gt;(Description Pending)&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>John Britton</title>
+			<link href="http://openstacks.github.io/blog/2011/12/12/john-britton"/>
+			<updated>2011-12-12T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2011/12/12/john-britton</id>
+			<content type="html">&lt;p&gt;John Britton is a developer and community builder, active in both open source and open education. As Education Liaison at GitHub he’s working to improve computer science education by bringing the principles of open source into the classroom.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Jordan Mccullough</title>
+			<link href="http://openstacks.github.io/blog/2011/11/11/jordan-mccullough"/>
+			<updated>2011-11-11T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2011/11/11/jordan-mccullough</id>
+			<content type="html">&lt;p&gt;Jordan McCullough, a JavaScript and front-end developer by trade, has a passion for open source software and community-driven development. He enjoys applying his technical know-how and software development experience to crafting meaningful learning experiences with GitHub and Git Training.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Peter Bell</title>
+			<link href="http://openstacks.github.io/blog/2011/10/10/peter-bell"/>
+			<updated>2011-10-10T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2011/10/10/peter-bell</id>
+			<content type="html">&lt;p&gt;Peter Bell is a veteran teacher who brings a Ruby on Rails and ColdFusion background to in-person classrooms up and down the North East US.
+He is also a published author in IEEE, Dr. Dobbs, and IBM journals.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Recursos sobre git en Español / Git in the Spanish Language</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/spanish-resources"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/spanish-resources</id>
+			<content type="html">&lt;h2 id=&quot;blogs&quot;&gt;Blogs&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aprendegit.com&quot;&gt;aprendegit.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;aprendegit.com es un blog que nace con el objetivo de compartir con la
+comunidad información, trucos, novedades  y experiencias relacionadas con git.
+Formado por un equipo convencido de las enormes ventajas que aporta su uso,
+buscamos con nuestros artículos enseñar de forma práctica cómo esta
+herramienta nos ayuda a ser mejores profesionales. Si te gusta git y hablas
+español este blog te puede resultar muy útil.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Shell Prompts</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/shell-prompts"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/shell-prompts</id>
+			<content type="html">&lt;p&gt;Recent installations of MSysGit include a bash prompt that indicates the current branch and working tree status.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/git/git/blob/master/contrib/completion/git-completion.bash&quot;&gt;Git’s official shell completion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/teach.github.com/tree/gh-pages/examples/shellprompts&quot;&gt;Git Training Shell Prompts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/robbyrussell/oh-my-zsh&quot;&gt;Robby Russell’s oh-my-zsh • Git Enabled ZShell Prompts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/matthewmccullough/scripts&quot;&gt;Matthew’s Bash and ZShell Scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git Hook Samples</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/sample-git-hooks"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/sample-git-hooks</id>
+			<content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://teach.github.com/articles/example-hooks/&quot;&gt;Git Hook Examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Git Configuration</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/sample-git-config-files"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/sample-git-config-files</id>
+			<content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/teach.github.com/tree/gh-pages/examples/gitconfig/dot-gitconfig.txt&quot;&gt;Git Training Aliases, Config&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/teach.github.com/tree/gh-pages/examples/gitconfig/dot-gitconfig2.txt&quot;&gt;Git Training Aliases, Config 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Free Git eBook</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/progit-book"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/progit-book</id>
+			<content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://git-scm.com/book&quot;&gt;Free ProGit eBook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scott Chacon of GitHub has written an excellent title on Git that is available in electronic formats for free.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Office Hours and Free Classes</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/officehours"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/officehours</id>
+			<content type="html">&lt;p&gt;GitHub offers free, short, topical online classes about GitHub, Git, and the union of these two technologies. Every few events, we rotate through the series and each month we try introduce new topics into the mix. Covered topics include things such as &lt;a href=&quot;https://github.com/blog/712-pull-requests-2-0&quot;&gt;Pull Requests&lt;/a&gt;, &lt;a href=&quot;https://github.com/blog/674-introducing-organizations&quot;&gt;Organizations&lt;/a&gt;, GitHub:Enterprise, &lt;a href=&quot;https://github.com/blog/831-issues-2-0-the-next-generation&quot;&gt;GitHub Issues&lt;/a&gt;, and the &lt;a href=&quot;http://developer.github.com/&quot;&gt;GitHub API&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://training.github.com/web/free-classes/&quot;&gt;Register&lt;/a&gt; for an upcoming office hours event now.&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Curated Git eBook Bookmarks</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/git-ebooks"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/git-ebooks</id>
+			<content type="html">&lt;h2 id=&quot;git-ebooks&quot;&gt;Git eBooks&lt;/h2&gt;
+
+&lt;p&gt;There are many fantastic free and commercial eBooks explaining both how to use and how to get the most out of Git. A dynamically updated list of our 50 most recently updated Git eBook bookmarks are provided below.&lt;/p&gt;
+
+&lt;p&gt;The complete list of &lt;a href=&quot;https://pinboard.in/u:matthew.mccullough/t:git+ebook&quot;&gt;Matthew’s Git eBook Bookmarks&lt;/a&gt; is also available for perusal.&lt;/p&gt;
+
+&lt;h2 id=&quot;top-50-git-ebook-bookmarks&quot;&gt;Top 50 Git eBook Bookmarks&lt;/h2&gt;
+
+&lt;script language=&quot;javascript&quot; src=&quot;http://pinboard.in/widgets/v1/linkroll/?user=matthew.mccullough&amp;amp;count=50&amp;amp;tag=git,ebook&quot;&gt;&lt;/script&gt;
+
+</content>
+		</entry>
+	
+		<entry>
+			<title>Curated Git Bookmarks</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/git-bookmarks"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/git-bookmarks</id>
+			<content type="html">&lt;h2 id=&quot;git-articles-blog-posts-and-sites&quot;&gt;Git Articles, Blog Posts, and Sites&lt;/h2&gt;
+
+&lt;p&gt;There are literally thousands of sites with Git content. This is where instructor information curating becomes helpful. A dynamically updated list of our 50 most recently updated Git bookmarks are provided below.&lt;/p&gt;
+
+&lt;p&gt;The complete list of &lt;a href=&quot;https://pinboard.in/u:matthew.mccullough/t:git&quot;&gt;Matthew’s Git Bookmarks&lt;/a&gt; is also available for perusal.&lt;/p&gt;
+
+&lt;h2 id=&quot;top-50-git-ebook-bookmarks&quot;&gt;Top 50 Git eBook Bookmarks&lt;/h2&gt;
+
+&lt;script language=&quot;javascript&quot; src=&quot;http://pinboard.in/widgets/v1/linkroll/?user=matthew.mccullough&amp;amp;count=50&amp;amp;tag=git&quot;&gt;&lt;/script&gt;
+
+</content>
+		</entry>
+	
+		<entry>
+			<title>Additional Teaching Materials</title>
+			<link href="http://openstacks.github.io/blog/2001/01/01/additional-materials"/>
+			<updated>2001-01-01T00:00:00+00:00</updated>
+			<id>http://openstacks.github.io//blog/2001/01/01/additional-materials</id>
+			<content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gurugray/git-trainer/&quot;&gt;Git Trainer&lt;/a&gt; — a simple tool to demonstrate how Git history works.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+
+</feed>
