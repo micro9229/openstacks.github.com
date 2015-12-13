@@ -14,7 +14,7 @@
   width: 183px;
   text-indent: -999px;
   overflow: hidden;
-  /* background: url('../img/gh-training-logo-2x.png') no-repeat; */
+  background: url('../img/gh-training-logo-2x.png') no-repeat; 
 
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
   filter: alpha(opacity=70);

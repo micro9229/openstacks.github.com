@@ -1,4 +1,4 @@
-name: Cloud compute
+name: Cloud Compute
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-pygments: true
+highlighter: true
